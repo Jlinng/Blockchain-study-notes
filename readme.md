@@ -8,7 +8,10 @@ Everyone who want to learn about Bitcoin or Blockchain should start with this ar
 4. when the system is secure: num of honest nodes > num of attacker nodes
 5. timestamp server: Each timestamp includes the previous timestamp in its hash, forming a chain, with each additional timestamp reinforcing the ones before it.
 6. proof-of-work
-7. 
+
+Other references
+- BitCoin and Cryptocurrency technologies: A comprehensive introduction
+- [Yellow Paper](https://github.com/ethereum/yellowpaper)
 Now, let's begin the journey
 # Catalog
 ## 1. speculate (投机)
